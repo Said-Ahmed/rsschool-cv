@@ -11,4 +11,13 @@ I like programming. I also love to play sports.
 * Js
 * PHP
 * HTML/CSS
-
+## Code Example
+``` 
+def max(a, b):
+    if a > b:
+        return a
+    else:
+        return b
+```
+## Education
+* **University**: Dagestan State University. Direction applied mathematics and computer science
